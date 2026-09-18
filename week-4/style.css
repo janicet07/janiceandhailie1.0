@@ -1,9 +1,11 @@
 h1{
   font-family:cursive;
   font-size: 150px;
+  color: white;
+  text-align: center;
 }
 body {
-  font-family: sans-serif;
+  font-family: cursive;
   background-color: rgb(160, 238, 227);
-  min-height: 100vh;
+  color: rgb(32, 58, 55);
 }

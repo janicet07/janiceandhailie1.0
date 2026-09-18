@@ -5,9 +5,9 @@ h1{
   color: white;
   text-align: center;
 } 
-
 body {
   font-family: cursive;
   background-color: rgb(160, 238, 227);
   color: rgb(32, 58, 55);
+  font-size: 50px;
 }
